@@ -1,0 +1,14 @@
+{
+    "machine":[
+        {
+            "ip": "127.0.0.1",
+            "port": 12345,
+            "tty1": "1",
+            "tty2": "3",
+            "baudrate": 9600,
+            "databit": 8,
+            "stopbit": 1,
+            "parity": "n"
+        }
+    ]
+}
